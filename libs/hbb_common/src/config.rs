@@ -76,6 +76,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &[
+    "hr.looknet.asia",
     "hs.looknet.asia"
 ];
 
